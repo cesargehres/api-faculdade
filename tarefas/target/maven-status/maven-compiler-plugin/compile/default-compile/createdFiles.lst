@@ -1,0 +1,5 @@
+com/example/tarefas/model/Tarefa.class
+com/example/tarefas/TarefasApplication.class
+com/example/tarefas/service/TarefaService.class
+com/example/tarefas/repository/TarefaRepository.class
+com/example/tarefas/controller/TarefaController.class
